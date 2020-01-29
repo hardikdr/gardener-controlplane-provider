@@ -1,0 +1,7 @@
+apiVersion: controlplane.cluster.x-k8s.io/v1alpha1
+kind: GardenerControlPlane
+metadata:
+  name: gardenercontrolplane-sample
+spec:
+  # Add fields here
+  foo: bar
